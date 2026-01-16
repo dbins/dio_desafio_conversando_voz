@@ -9,12 +9,16 @@ O script original utilizava ChatGPT e Whisper, ele se encontra na pasta original
 
 Conteúdo recomendado:
 
-Conversando Por Voz Com o ChatGPT Utilizando Whisper (OpenAI) e Python.
+**Conversando Por Voz Com o ChatGPT Utilizando Whisper (OpenAI) e Python**
+
 https://web.dio.me/articles/conversando-por-voz-com-o-chatgpt-utilizando-whisper-openai-e-python
 
-Código-fonte deste Desafio de Projeto (Lab) no Google Colab https://colab.research.google.com/drive/1rHGq5N-sbEGtZsNUiQFT8q60BhRbj99b?usp=sharing
+**Código-fonte deste Desafio de Projeto (Lab) no Google Colab**
 
-Live completa deste projeto 
+https://colab.research.google.com/drive/1rHGq5N-sbEGtZsNUiQFT8q60BhRbj99b?usp=sharing
+
+**Live completa deste projeto**
+
 https://www.youtube.com/watch?v=3ojLFBipm5U
 
 
