@@ -3,7 +3,7 @@
 ![Desafio DIO](desafio_dio.jpg)
 
 
-Neste desafio proposto pela DIO foi criado um script que recebe um áudio, pesquisa a pergunta enviada no áudio utilizando intelgência artificial e devolve outro áudio como resposta.
+Neste desafio proposto pela DIO foi criado um script que recebe um áudio, pesquisa a pergunta enviada no áudio utilizando inteligência artificial e devolve outro áudio como resposta.
 
 O script original utilizava ChatGPT e Whisper, ele se encontra na pasta original. O script foi alterado, substituindo os dois pelo Gemini.
 
